@@ -1,0 +1,1 @@
+//class RA_HKRearSightOptic extends ItemOptics {};

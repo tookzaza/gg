@@ -1,0 +1,1 @@
+class RA_M203 : ItemBase{};
