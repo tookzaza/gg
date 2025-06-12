@@ -1,0 +1,1 @@
+class RA_M14_EBR_Base: RA_M14_Base{};
